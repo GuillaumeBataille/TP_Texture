@@ -1,0 +1,2 @@
+Info,  T0: Load ./data/doons.glb
+Error, T0: Unable to open file "./data/doons.glb".

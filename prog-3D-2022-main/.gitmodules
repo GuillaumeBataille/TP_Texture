@@ -1,0 +1,6 @@
+[submodule "template/thirdparties/glm"]
+	path = template/thirdparties/glm
+	url = https://github.com/g-truc/glm.git
+[submodule "template/thirdparties/assimp"]
+	path = template/thirdparties/assimp
+	url = https://github.com/assimp/assimp.git

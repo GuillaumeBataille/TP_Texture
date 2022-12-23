@@ -1,0 +1,3 @@
+/home/bambipc/Bureau/master_imagine/HAI719I-Programmation-3D/TP_Beugnon/prog-3D-2022-main/template/build/CMakeFiles/rebuild_cache.dir
+/home/bambipc/Bureau/master_imagine/HAI719I-Programmation-3D/TP_Beugnon/prog-3D-2022-main/template/build/CMakeFiles/edit_cache.dir
+/home/bambipc/Bureau/master_imagine/HAI719I-Programmation-3D/TP_Beugnon/prog-3D-2022-main/template/build/CMakeFiles/tp.dir
